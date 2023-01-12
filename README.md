@@ -5,12 +5,13 @@
 
 Horiseon Social Solution Services, Inc is seeking to improve accessibility standards of its website in order to optimize it for search engines.  
 
+
+
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon-homepage.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look  a resolution smaller than 768px. 
 
 ---
-
 
 ## Accessibility Changes
 
@@ -20,7 +21,7 @@ Horiseon Social Solution Services, Inc is seeking to improve accessibility stand
 
 ## HTML & CSS Changes
 
-- Elements changed to follow logic structure, independed of styling & positioning
+- Elements changed to follow logic structure, independent of styling & positioning
 - Condensed CSS class selectors to clean up duplication
 
 ---
@@ -29,15 +30,12 @@ Horiseon Social Solution Services, Inc is seeking to improve accessibility stand
 
 N/A
 
-
 ---
-
-
-
 
 ## Authors
 
-Rebecca Lawrence (https://github.com/rkml14/)
+Rebecca Lawrence (https://github.com/rkml14/)  
+Live site: (https://rkml14.github.io/challenge1/)
 
 ---
 
