@@ -3,7 +3,7 @@
 ## Description
 
 
-Horiseon Social Solution Services, Inc is seeking to improve accessibility standards of its website in order to optimize it for search engines.  
+Horiseon Social Solution Services, Inc is seeking to improve accessibility standards of its website in order to optimize it for search engines.  This will ensure that people who use assistive technologies will be able to access Horiseon's website. 
 
 
 
