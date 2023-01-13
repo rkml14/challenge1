@@ -11,15 +11,10 @@ Horiseon Social Solution Services, Inc is seeking to improve accessibility stand
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look  a resolution smaller than 768px. 
 
----
-
-## Accessibility Changes
-
+Changes were made to the following:
 - Changed the div classes to semantic HTML codes using header, footer, main, section 
 - Alt attributes were added to all image files
 - Title of the page was changed to client's name
-
-## HTML & CSS Changes
 
 - Elements changed to follow logic structure, independent of styling & positioning
 - Condensed CSS class selectors to clean up duplication
